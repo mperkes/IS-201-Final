@@ -1,0 +1,38 @@
+.image {
+    float: right;
+    margin-left: 20px;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.video {
+    text-align: center;
+
+}
+
+.header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    font-size: xx-large;
+    text-align: center;
+    border-bottom: 2px solid black; 
+    padding-bottom: 10px;
+}
+    
+
+
+h1  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+h3 {
+    font-family: Apple Chancery,cursive;}
+
+body{
+    background-color: rgb(205, 229, 249);
+}
+
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
